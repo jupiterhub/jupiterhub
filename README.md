@@ -1,5 +1,5 @@
 [![Jupiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=jupiterhub&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jupiterhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **jupiterhub/jupiterhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->**
+-->
