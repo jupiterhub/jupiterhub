@@ -1,4 +1,4 @@
-[![Jupiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=jupiterhub&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Jupiter's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jupiterhub&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jupiterhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
