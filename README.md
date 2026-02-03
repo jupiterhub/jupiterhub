@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/jupiterhub.png" width="120" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Jupiter Tecson" />
 
-  # Jupiter Tecson
+  # Jupiter
   
   ### Software Engineer | Entrepreneur | Polyglot Architect
   
