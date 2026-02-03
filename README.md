@@ -44,6 +44,6 @@ I contribute to the core infrastructure tools that power modern software.
 <div align="center">
   <p><b>Explore the engineering deep-dive:</b></p>
   <a href="https://blog.jupitergoals.com/">
-    <img src="https://img.shields.io/badge/VISIT-WALKINGJUPITER.COM-000000?style=for-the-badge&logo=next.js&logoColor=white&height=40" height="40" />
+    <img src="https://img.shields.io/badge/BLOG.JUPITERGOALS.COM-000000?style=for-the-badge&logo=next.js&logoColor=white&height=40" height="40" />
   </a>
 </div>
