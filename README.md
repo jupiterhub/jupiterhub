@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/jupiterhub.png" width="120" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Jupiter Tecson" />
-
-  <br />
-
   <a href="https://walkingjupiter.com/">
     <img src="https://img.shields.io/badge/Portfolio-WalkingJupiter.com-2ecc71?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
