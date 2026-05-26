@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi there, I'm Jupiter 👋</h1>
   <h3>Staff+ Engineer · Distributed Systems, Platform & AI</h3>
   <a href="https://walkingjupiter.com/">
     <img src="https://img.shields.io/badge/Portfolio-WalkingJupiter.com-2ecc71?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
